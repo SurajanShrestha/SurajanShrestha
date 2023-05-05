@@ -16,7 +16,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - AWS
 
 ## 📬 Contact Me
-- Already mentioned in this GitHub Profile.
+- Already mentioned in this GitHub Profile 👈.
 
 ## 🎉 Fun Fact
 - I love MMA and Boxing.
@@ -24,7 +24,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - I love Anime and Manga.
 
 ## 📚 Currently Reading
-- [12 Rules for Life by Dr. Jordan B Peterson](https://en.wikipedia.org/wiki/12_Rules_for_Life)
+- <a href="https://en.wikipedia.org/wiki/12_Rules_for_Life" target="_blank">12 Rules for Life by Dr. Jordan B Peterson</a>
 
 <!--
 **SurajanShrestha/SurajanShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
