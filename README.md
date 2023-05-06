@@ -13,7 +13,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## 🧠 Currently Learning
 - Go
 - Gin Framework for Go
-- AWS
+- AWS and Cloud Architectures
 
 ## 📬 Contact Me
 - Already mentioned in this GitHub Profile 👈.
@@ -25,6 +25,14 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 
 ## 📚 Currently Reading
 - <a href="https://en.wikipedia.org/wiki/12_Rules_for_Life" target="_blank">12 Rules for Life by Dr. Jordan B Peterson</a>
+
+## 💼 Currently Working With
+- Ready To Work Org (**Remote**)
+
+## ⏳ Previously Worked With
+- KTMRush Pvt. Ltd.
+- TukiLogic Pvt. Ltd.
+- Aspark Systems Pvt. Ltd.
 
 <!--
 **SurajanShrestha/SurajanShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
