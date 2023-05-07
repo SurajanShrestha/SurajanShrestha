@@ -34,7 +34,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - TukiLogic Pvt. Ltd.
 - Aspark Systems Pvt. Ltd.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SurajanShrestha&theme=transparent&card_width=600)]
+![GitHub Streak](https://streak-stats.demolab.com?user=SurajanShrestha&theme=transparent&card_width=600)
 ![Surajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajanShrestha&show_icons=true&theme=transparent&count_private=true&card_width=600px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajanShrestha&layout=compact&theme=transparent&card_width=600px)
 
