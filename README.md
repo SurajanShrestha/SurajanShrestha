@@ -7,13 +7,16 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - **Frameworks/Libraries**: React, React Native, Next, Node and Express.
 - **Databases**: SQL (MySQL, Postgres) and NoSQL (MongoDB).
 - **Coding Tools**: Git, VSCode, Npm, Yarn, Postman.
-- **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Table, etc.
+- **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Table, Storybook.
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
 ## 🧠 Currently Learning
 - Go
 - Gin Framework for Go
 - AWS and Cloud Architectures
+
+## ⚡ Recently Learnt
+- Storybook
 
 ## 📬 Contact Me
 - Already mentioned in this GitHub Profile 👈.
