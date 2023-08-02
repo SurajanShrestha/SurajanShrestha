@@ -23,8 +23,6 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 
 ## 🎉 Fun Fact
 - I love MMA and Boxing.
-- Superfan of Marvel and DC Comics & Movies.
-- I love Anime and Manga.
 
 ## 📚 Currently Reading
 - <a href="https://en.wikipedia.org/wiki/12_Rules_for_Life" target="_blank">12 Rules for Life by Dr. Jordan B Peterson</a>
