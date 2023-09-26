@@ -11,12 +11,11 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
 ## 🧠 Currently Learning
-- Gin Framework for Go
 - AWS and Cloud Architectures
 
 ## ⚡ Recently Learnt
-- Storybook
 - Go
+- Gin Framework for Go
 
 ## 📬 Contact Me
 - Already mentioned in this GitHub Profile 👈.
