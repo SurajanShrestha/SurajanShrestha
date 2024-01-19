@@ -4,10 +4,11 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## 🏁 Skills and Experiences
 - **Experience**: 3+ years.
 - **Languages**: JavaScript, TypeScript and Go + HTML and CSS (Seriously, these two are not programming languages 😅).
-- **Frameworks/Libraries**: React, React Native, Next, Node and Express.
+- **Frameworks/Libraries**: React, React Native, Next, Node, Express and Gin (Go).
 - **Databases**: SQL (MySQL, Postgres) and NoSQL (MongoDB).
 - **Coding Tools**: Git, VSCode, Npm, Yarn, Postman.
-- **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Table, Storybook.
+- **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Hook Forms, React Table, Storybook.
+- **Testing**: Jest and React Testing Library.
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
 ## 🧠 Currently Learning
@@ -16,6 +17,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## ⚡ Recently Learnt
 - Go
 - Gin Framework for Go
+- AWS Cognito
 
 ## 📬 Contact Me
 - Already mentioned in this GitHub Profile 👈.
@@ -25,6 +27,8 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 
 ## 📚 Currently Reading
 - <a href="https://en.wikipedia.org/wiki/12_Rules_for_Life" target="_blank">12 Rules for Life by Dr. Jordan B Peterson</a>
+- <a href="https://en.wikipedia.org/wiki/The_48_Laws_of_Power" target="_blank">48 Laws of Power</a>
+- <a href="https://jamesclear.com/atomic-habits" target="_blank">Atomic Habits</a>
 
 ## 💼 Currently Working With
 - Ready To Work Org (**Remote**)
