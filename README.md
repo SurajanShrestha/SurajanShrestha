@@ -12,7 +12,10 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
 ## 📖 Articles
-- <a href="https://medium.com/readytowork-org/defer-panic-and-recover-in-go-for-error-handling-ca34792f00d8" target="_blank">Defer, Panic, and Recover in Go for Error Handling</a>
+- [Defer, Panic, and Recover in Go for Error Handling 🐭](https://medium.com/readytowork-org/defer-panic-and-recover-in-go-for-error-handling-ca34792f00d8)
+- [Implementing a QR Code Scanner in React 📸](https://medium.com/readytowork-org/implementing-a-qr-code-scanner-in-react-4c8f4e3c6f2e)
+- [Setup up Jest & React Testing Library with Pre-Commits & CircleCI 🧪](https://medium.com/readytowork-org/setup-up-jest-react-testing-library-with-pre-commits-circleci-2890d8453da1)
+- [Monorepo in Next.js using Turborepo with Remote Caching & Vercel 🚀](https://medium.com/readytowork-org/monorepo-in-next-js-using-turborepo-with-remote-caching-vercel-bc30ebde8951)
 
 ## 🧠 Currently Learning
 - AWS and Cloud Architectures
