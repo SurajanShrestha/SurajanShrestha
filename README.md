@@ -11,6 +11,9 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - **Testing**: Jest and React Testing Library.
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
+## 📖 Articles
+- <a href="https://medium.com/readytowork-org/defer-panic-and-recover-in-go-for-error-handling-ca34792f00d8" target="_blank">Defer, Panic, and Recover in Go for Error Handling</a>
+
 ## 🧠 Currently Learning
 - AWS and Cloud Architectures
 
