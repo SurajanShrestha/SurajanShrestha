@@ -2,7 +2,7 @@
 I'm a Software Engineer currently residing in Nepal with a passion for creating solutions that automate and solve real-world problems.
 
 ## 🏁 Skills and Experiences
-- **Experience**: 3+ years.
+- **Experience**: 5+ years.
 - **Languages**: JavaScript, TypeScript and Go + HTML and CSS (Seriously, these two are not programming languages 😅).
 - **Frameworks/Libraries**: React, React Native, Next, Node, Express and Gin (Go).
 - **Databases**: SQL (MySQL, Postgres) and NoSQL (MongoDB).
