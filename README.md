@@ -4,11 +4,11 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## 🏁 Skills and Experiences
 - **Experience**: 5+ years.
 - **Languages**: JavaScript, TypeScript and Go + HTML and CSS (Seriously, these two are not programming languages 😅).
-- **Frameworks/Libraries**: React, React Native, Next, GraphQL, Node, Express and Gin (Go).
+- **Frameworks/Libraries**: React, React Native, Next, GraphQL, tRPC, Ionic, Node, Express and Gin (Go).
 - **Databases**: SQL (MySQL, Postgres, SQLite), Supabase and NoSQL (MongoDB).
 - **Cloud and DevOps**: Docker, Kubernetes (K8s), Amazon Web Services (AWS), Google Cloud Platform (GCP), Firebase, Heroku, Render.
 - **Coding Tools**: Git, VSCode, Npm, Yarn, Postman.
-- **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Hook Forms, React Table, Storybook.
+- **Most Used Packages**: Eslint, Husky, Sequelize & Prisma ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, Jotai, Zustand, React Query, Axios, Apollo GraphQL, Formik, React Hook Forms, React Table, Storybook.
 - **Testing**: Jest and React Testing Library.
 - **Project Management and Note Taking Tools**: Jira, Notion and Confluence.
 
