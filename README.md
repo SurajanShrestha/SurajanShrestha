@@ -5,7 +5,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - **Experience**: 5+ years.
 - **Languages**: JavaScript, TypeScript and Go + HTML and CSS (Seriously, these two are not programming languages 😅).
 - **Frameworks/Libraries**: React, React Native, Next, GraphQL, Node, Express and Gin (Go).
-- **Databases**: SQL (MySQL, Postgres), Supabase and NoSQL (MongoDB).
+- **Databases**: SQL (MySQL, Postgres, SQLite), Supabase and NoSQL (MongoDB).
 - **Cloud and DevOps**: Docker, Kubernetes (K8s), Amazon Web Services (AWS), Google Cloud Platform (GCP), Firebase, Heroku, Render.
 - **Coding Tools**: Git, VSCode, Npm, Yarn, Postman.
 - **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Hook Forms, React Table, Storybook.
@@ -26,11 +26,6 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 
 ## 🎉 Fun Fact
 - I love MMA and Boxing.
-
-## 📚 Currently Reading
-- <a href="https://en.wikipedia.org/wiki/12_Rules_for_Life" target="_blank">12 Rules for Life by Dr. Jordan B Peterson</a>
-- <a href="https://en.wikipedia.org/wiki/The_48_Laws_of_Power" target="_blank">48 Laws of Power</a>
-- <a href="https://jamesclear.com/atomic-habits" target="_blank">Atomic Habits</a>
 
 ## 💼 Currently Working With
 - Regional Integrated Multihazard Early Warning Systems (RIMES) (**Remote Consultant**)
