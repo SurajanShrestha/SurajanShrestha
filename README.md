@@ -28,7 +28,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - I love MMA and Boxing.
 
 ## 💼 Currently Working With
-- Regional Integrated Multihazard Early Warning Systems (RIMES) (**Remote Consultant**)
+- Regional Integrated Multihazard Early Warning System (RIMES) (**Remote Consultant**)
 
 ## ⏳ Previously Worked With
 - Ready To Work Org (**Remote**)
