@@ -4,8 +4,9 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## 🏁 Skills and Experiences
 - **Experience**: 5+ years.
 - **Languages**: JavaScript, TypeScript and Go + HTML and CSS (Seriously, these two are not programming languages 😅).
-- **Frameworks/Libraries**: React, React Native, Next, Node, Express and Gin (Go).
-- **Databases**: SQL (MySQL, Postgres) and NoSQL (MongoDB).
+- **Frameworks/Libraries**: React, React Native, Next, GraphQL, Node, Express and Gin (Go).
+- **Databases**: SQL (MySQL, Postgres), Supabase and NoSQL (MongoDB).
+- **Cloud and DevOps**: Docker, Kubernetes (K8s), Amazon Web Services (AWS), Google Cloud Platform (GCP), Firebase, Heroku, Render.
 - **Coding Tools**: Git, VSCode, Npm, Yarn, Postman.
 - **Most Used Packages**: Eslint, Husky, Sequelize ORM, Mongoose, Redux, Redux Toolkit, Redux Thunk, React Query, Axios, Formik, React Hook Forms, React Table, Storybook.
 - **Testing**: Jest and React Testing Library.
@@ -18,12 +19,7 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - [Monorepo in Next.js using Turborepo with Remote Caching & Vercel 🚀](https://medium.com/readytowork-org/monorepo-in-next-js-using-turborepo-with-remote-caching-vercel-bc30ebde8951)
 
 ## 🧠 Currently Learning
-- AWS and Cloud Architectures
-
-## ⚡ Recently Learnt
-- Go
-- Gin Framework for Go
-- AWS Cognito
+- AI/ML
 
 ## 📬 Contact Me
 - Already mentioned in this GitHub Profile 👈.
@@ -37,12 +33,13 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 - <a href="https://jamesclear.com/atomic-habits" target="_blank">Atomic Habits</a>
 
 ## 💼 Currently Working With
-- Ready To Work Org (**Remote**)
+- Regional Integrated Multihazard Early Warning Systems (RIMES) (**Remote Consultant**)
 
 ## ⏳ Previously Worked With
-- KTMRush Pvt. Ltd. (**Onsite**)
-- TukiLogic Pvt. Ltd. (**Onsite**)
+- Ready To Work Org (**Remote**)
 - Aspark Systems Pvt. Ltd. (**Onsite**)
+- TukiLogic Pvt. Ltd. (**Onsite**)
+- KTMRush Pvt. Ltd. (**Onsite**)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SurajanShrestha&theme=transparent&card_width=600)
 ![Surajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajanShrestha&show_icons=true&theme=transparent&count_private=true&card_width=600px)
