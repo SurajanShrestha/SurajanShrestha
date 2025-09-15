@@ -27,15 +27,6 @@ I'm a Software Engineer currently residing in Nepal with a passion for creating 
 ## 🎉 Fun Fact
 - I love MMA and Boxing.
 
-## 💼 Currently Working With
-- Regional Integrated Multihazard Early Warning System (RIMES) (**Remote Consultant**)
-
-## ⏳ Previously Worked With
-- Ready To Work Org (**Remote**)
-- Aspark Systems Pvt. Ltd. (**Onsite**)
-- TukiLogic Pvt. Ltd. (**Onsite**)
-- KTMRush Pvt. Ltd. (**Onsite**)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=SurajanShrestha&theme=transparent&card_width=600)
 ![Surajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajanShrestha&show_icons=true&theme=transparent&count_private=true&card_width=600px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajanShrestha&layout=compact&theme=transparent&card_width=600px)
