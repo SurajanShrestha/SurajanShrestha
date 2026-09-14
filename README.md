@@ -1,2 +1,2 @@
-- Building World Models
-- More @https://surajan.xyz/
+🔨 Building Physical AI
+👉 More @https://surajan.xyz/
